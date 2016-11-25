@@ -2,3 +2,4 @@
 novi repositorijum
 promenjen
 promenjeno u lokalu
+GRANA-testing
